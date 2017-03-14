@@ -1,6 +1,6 @@
 ### Task 1
 * On the server
-* * List all available errata and output to errata.txt under /root
+** List all available errata and output to errata.txt under /root
 * * List all available security update and output to security_updates.txt under /root
 * * List currently installed security updates and output to installed_security.txt under /root
 * * Get Verbose descriptions of security updates and output to installed_security_verbose.txt under /root
